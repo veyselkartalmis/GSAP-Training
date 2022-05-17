@@ -19,6 +19,7 @@ Click Shop Button
 <img src="assets/readme-4.png">
 <hr>
 <br>
+<h2>Training 5</h2>
 <a href="https://parallax-training-5.netlify.app/" target="_blank">LIVE</a>
 <img src="assets/readme-5.png">
 <hr>
