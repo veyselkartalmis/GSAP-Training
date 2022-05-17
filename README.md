@@ -18,3 +18,7 @@ Click Shop Button
 <a href="https://gsap-training-4.netlify.app/" target="_blank">LIVE</a>
 <img src="assets/readme-4.png">
 <hr>
+<br>
+<a href="https://parallax-training-5.netlify.app/" target="_blank">LIVE</a>
+<img src="assets/readme-5.png">
+<hr>
